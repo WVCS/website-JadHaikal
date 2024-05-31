@@ -1,6 +1,12 @@
 <html>
 
- 
+  <nav>
+  
+  <li><a href="index.html"> HOME </a></li>
+  <li><a href="wordle.html"> DATA APP </a></li>
+  <li><a href="under.html"> SEA </li>
+  
+</nav>
        <style>
      h1 {
   color: #40E0D0;
@@ -20,11 +26,5 @@
 <center>
  <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/yxhqxzfeL6vY4J7nxcyxiXIVtSz5gwZDwiY847wiHn4/embed"></iframe>
 </center>
-  <nav>
   
-  <li><a href="index.html"> HOME </a></li>
-  <li><a href="wordle.html"> DATA APP </a></li>
-  <li><a href="under.html"> SEA </li>
-  
-</nav>
   </html>
