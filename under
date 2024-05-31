@@ -1,0 +1,30 @@
+<html>
+
+ 
+       <style>
+     h1 {
+  color: #40E0D0;
+  font-size: 75px;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: red;
+  text-decoration-thickness: 7px;
+  text-shadow: 1px 1px 3px red;
+  letter-spacing: 3px
+  font-family: "Lucida Console", "Courier New", "Papyrus";
+}
+      </style>
+ <head>
+    <link rel="stylesheet" href="style.css">
+ </head>
+<center>
+ <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/yxhqxzfeL6vY4J7nxcyxiXIVtSz5gwZDwiY847wiHn4/embed"></iframe>
+</center>
+  <nav>
+  
+  <li><a href="index.html"> HOME </a></li>
+  <li><a href="wordle.html"> DATA APP </a></li>
+  <li><a href="under.html"> EA </li>
+  
+</nav>
+  </html>
